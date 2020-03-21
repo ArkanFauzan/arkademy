@@ -13,13 +13,13 @@ kemudian menggunakan google chrome untuk melihat tampilan outputnya
 kemudian untuk menjalankan file php saya menggunakan browser chrome dengan url localhost/namafile.php (jika menyimpan langusung di htdocs). Jika menyimpan di dalam folder tertentu di dalam folder htdocs, maka url nya localhost/namafolder/namafile.php
 5.Pada file yang saya commit, di bagian bawah, saya masih menuliskan fungsi var_dump(). fungsi ini saya gunakan untuk melihat hasil output ketika saya menginput dengan nilai tertentu. Hal ini saya lakukan untuk mempermudah pembuatan fungsi.
 
-#kekurangan saya dalam pengerjaan soal
-1. saya belum mengerjakan soal nomor 6 karena saya masih perlu banyak belajar dan memikirkan solusi untuk mengerjakan soal nomor 1-5
-2. saya melakukan commit tanpa menggunakan git, melainkan upload langsung dari github. sebelumnya saya memang sudah mengenal github, tetapi tidak dengan git (baru dua hari lalu saya tau nya). saya kurang punya cukup waktu untuk mempelajari git (hari ini) dan mengupload melalui git.
-
 #pencapaian saya dalam pengerjaan soal
 1. alhamdulillah saya mengerjakan soal sendiri tanpa bantuan orang lain.
 2. alhamdulillah saya bisa menyelesaikan 5 soal padahal saya baru belajar programming php dan sedikit mysql sejak 4 bulan yang lalu (saya belajar rutin hampir setiap hari). skill saya masih sangat kurang, saya masih perlu banyak belajar. rencananya bulan depan saya mulai belajar javascript, mysql lebih mendalam, kemudian mulai mempelajari oop php
+
+#kekurangan saya dalam pengerjaan soal
+1. saya belum mengerjakan soal nomor 6 karena saya masih perlu banyak belajar dan memikirkan solusi untuk mengerjakan soal nomor 1-5
+2. saya melakukan commit tanpa menggunakan git, melainkan upload langsung dari github. sebelumnya saya memang sudah mengenal github, tetapi tidak dengan git (baru dua hari lalu saya tau nya). saya kurang punya cukup waktu untuk mempelajari git (hari ini) dan mengupload melalui git.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 jawaban kegunaan json pada rest api
