@@ -1,9 +1,10 @@
 # arkademy
 
-ini adalah repositori jawaban saya pada tes seleksi arkademy batch 16 tanggal 21 maret 2020
-jawaban nomor 1 sampai 5 saya mengerjakannya dengan bahasa php
-saya menggunakan web server apache yang ada pada xampp
-kemudian menggunakan google chrome untuk melihat tampilan outputnya
+#
+1.ini adalah repositori jawaban saya pada tes seleksi arkademy batch 16 tanggal 21 maret 2020
+2.jawaban nomor 1 sampai 5 saya mengerjakannya dengan bahasa php
+3.saya menggunakan web server apache yang ada pada xampp
+4.kemudian menggunakan google chrome untuk melihat tampilan outputnya
 
 #mekanisme pengerjaan
 1. saya menggunakan teks editor atom untuk membuat dan mengedit file php
