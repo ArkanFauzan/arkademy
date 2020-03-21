@@ -1,4 +1,5 @@
 # arkademy
+
 ini adalah repositori jawaban saya pada tes seleksi arkademy batch 16 tanggal 21 maret 2020
 jawaban nomor 1 sampai 5 saya mengerjakannya dengan bahasa php
 saya menggunakan web server apache yang ada pada xampp
