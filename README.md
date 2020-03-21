@@ -13,7 +13,7 @@ kemudian untuk menjalankan file php saya menggunakan browser chrome dengan url l
 
 #pencapaian saya dalam pengerjaan soal
 1. alhamdulillah saya mengerjakan soal sendiri tanpa bantuan orang lain.
-2. alhamdulillah saya bisa menyelesaikan 5 soal padahal saya baru belajar programming php dan sedikit mysql sejak 4 bulan yang lalu (saya belajar rutin hampir setiap hari). skill saya masih sangat kurang, saya masih perlu banyak belajar. rencananya bulan depan saya mulai belajar javascript, mysql lebih mendalam, kemudian mulai mempelajari oop php
+2. alhamdulillah saya bisa menyelesaikan 5 soal padahal saya baru belajar programming php dan sedikit mysql sejak 4 bulan yang lalu (saya belajar rutin hampir setiap hari, saya juga belajar html & css hingga website responsive). skill saya masih sangat kurang, saya masih perlu banyak belajar. rencananya bulan depan saya mulai belajar javascript, mysql lebih mendalam, kemudian mulai mempelajari oop php
 
 #kekurangan saya dalam pengerjaan soal
 1. saya belum mengerjakan soal nomor 6 karena saya masih perlu banyak belajar dan memikirkan solusi untuk mengerjakan soal nomor 1-5
