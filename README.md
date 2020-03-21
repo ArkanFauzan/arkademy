@@ -11,7 +11,7 @@ kemudian menggunakan google chrome untuk melihat tampilan outputnya
 3. lokasi default xampp adalah berada langsung pada direktori C:/ pada partisi harddisk
 4. file php harus disimpan di dalam C:/xampp/htdocs. penyimpanan dapat dilakukan langsung pada htdocs atau di dalam tertentu
 kemudian untuk menjalankan file php saya menggunakan browser chrome dengan url localhost/namafile.php (jika menyimpan langusung di htdocs). Jika menyimpan di dalam folder tertentu di dalam folder htdocs, maka url nya localhost/namafolder/namafile.php
-5.Pada file yang saya commit, di bagian bawah, saya masih menuliskan fungsi var_dump(). fungsi ini saya gunakan untuk melihat hasil output dari fungsi ketika saya menginput nilai tertentu. Hal ini saya lakukan untuk mempermudah pembuatan fungsi.
+5.Pada file yang saya commit, di bagian bawah, saya masih menuliskan fungsi var_dump(). fungsi ini saya gunakan untuk melihat hasil output ketika saya menginput dengan nilai tertentu. Hal ini saya lakukan untuk mempermudah pembuatan fungsi.
 
 #kekurangan saya dalam pengerjaan soal
 1. saya belum mengerjakan soal nomor 6 karena saya masih perlu banyak belajar dan memikirkan solusi untuk mengerjakan soal nomor 1-5
